@@ -1,4 +1,6 @@
 # Hi there, I'm Joni Aranguri👋
+![image](https://user-images.githubusercontent.com/13679919/131770608-f1f3af94-bf5f-473e-bd46-18286cb4d74c.png)
+
   I am a _FullStack Mobile-developer_ from _Argentina_ 🇦🇷 working with in the latin american unicorn [__MercadoLibre__](https://www.mercadolibre.com.ar/) as __Ssr. Software Engineer__. My prime expertise include [Java](https://www.oracle.com/java/) and [Kotlin](https://kotlinlang.org/)(Wich I really love) but I also like to play around a little with [Javascript](https://developer.mozilla.org/es/docs/Web/JavaScript), [Swift](https://swift.org/), and [Python](https://www.python.org/). I also worked with C/C++, Bash and C#.
 
 When I am not coding, for sure I am learning something, from University courses👨‍🎓 to Youtube tutorials, reading books📚 or even learning to be a good husband for my wife❤
