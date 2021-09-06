@@ -11,4 +11,4 @@ When I am not coding, for sure I am learning something, from University courses�
 - 💬 Ask me about Android Development | Mobile Unit testing | Kotlin
 - 📫 How to reach me: [Linkedin Profile](https://www.linkedin.com/in/jonathan-aranguri/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I really like eat Tangerines!🍊 and study Math🤓
+- ⚡ Fun fact: I really like eating Tangerines!🍊 and study Math🤓
